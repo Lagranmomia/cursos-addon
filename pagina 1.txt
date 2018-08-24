@@ -1,0 +1,65 @@
+ <assets>
+        <fanart>fanart.gif</fanart>
+    </assets>
+<channels>
+    <channels_info>
+      <title>[COLOR red][B]Cursos Add-on[/B][/COLOR]</title>
+      <genre></genre>
+      <description></description>
+      <thumbnail></thumbnail>
+      <assets><fanart></fanart></assets>
+      <date>24-08-2018</date>
+      <credits></credits>
+    </channels_info>
+<channels>
+
+ 
+<channel>
+<assets>
+      <name>[COLOR red][/COLOR][COLOR red]                                               [COLOR red][B]Cursos Add-on[/B][/COLOR]</name>
+  <thumbnail></thumbnail>
+<assets><fanart></fanart></assets>
+        
+<credits></credits>
+<genre></genre>
+<link></link>
+   <externallink></externallink>
+</assets>
+</channel>
+</channels>
+ 
+<channel>
+      <name>[COLOR orange][B] --> [COLOR lime]Cursos [COLOR blue]Add-on <-- [/B][/COLOR][/COLOR][/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link></link>
+   <externallink></externallink>
+</channel>  
+<channel>
+      <name>[COLOR white][B] Este addon es totalmente Gratuito[/B][/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link></link>
+   <externallink></externallink>
+</channel>  
+<channel>
+      <name>[COLOR white][B]Las listas de reproducción[/B][/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link></link>
+   <externallink></externallink>
+</channel>  
+<channel>
+      <name>[COLOR white][B]Son sacadas de youtube[/B][/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link></link>
+   <externallink></externallink>
+</channel>
+<channel>
+      <name>[COLOR white][B] Puede pulsar en Cualquier lado para empezar [/B][/COLOR]</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link></link>
+   <externallink></externallink>
+</channel>    
